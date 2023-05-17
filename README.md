@@ -1,4 +1,5 @@
-**Hi, I’m Teera!👋**
+**Hi, I’m Teera!🤓**
+*Student biochemistry at TUM*
 
 
 <!---
