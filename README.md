@@ -2,7 +2,7 @@
 
  - I am a biochemistry student at TUM 🧪
  
- - I am interested in computational proteomics and technical proteomics 💻:protein:
+ - I am interested in computational proteomics and technical proteomics 💻
 
 
 <!---
