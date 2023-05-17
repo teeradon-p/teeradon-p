@@ -1,6 +1,6 @@
 **Hi, I’m Teera!🤓**
 
-*Student biochemistry at TUM*
+Student at TUM
 
 
 <!---
